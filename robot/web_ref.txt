@@ -1,0 +1,2 @@
+http://0.0.0.0:8080/stream?topic=/image_raw&type=mjpeg&quality=10&invert&width=640&height=400&default_transport=compressed
+
